@@ -1,0 +1,47 @@
+.acerca{
+    width: 100%;
+    background: #141327;
+    
+    box-sizing: border-box;
+    display: flex;
+    
+}
+.acerca__info{
+    width: 50%;
+    padding: 110px;
+}
+.acerca__title{
+    color: #58baa0; 
+    font-size: 60px;
+    font-weight: 900;
+    width: 60%;
+    border-bottom: 5px solid #58baa0;
+
+}
+.acerca__datos{
+    margin:100px 0px;
+    padding: 30px;
+    border: 5px solid #58baa0 ;
+}
+.acerca__foto{
+    width: 50%;
+    border: 1px solid red;
+}
+.acerca__cuadro{
+    background: #2d3259;
+    width: 300px;
+    height: 400px;
+    z-index: 1;
+    position: absolute;
+    display: flex;
+    right: 0;
+}
+.acerca__datos{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 50px;
+}
+.acerca__dato{
+    margin: 30px 30px;
+
+}

@@ -1,0 +1,25 @@
+.main{
+    padding: 50px 0px;
+    display: flex;
+    align-items: center;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.inicio{
+    width: 100%;  
+}
+
+.inicio__letter{
+    margin: 0px 100px;
+    font-size: 120px;
+    font-weight: 900;
+}
+
+.inicio__letter::first-letter{
+    color: #58baa0;
+}
+.inicio__info{
+    width: 50%;
+    margin: 10px 110px;
+    font-size: 20px;
+}

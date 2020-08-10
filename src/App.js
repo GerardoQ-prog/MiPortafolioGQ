@@ -1,24 +1,24 @@
 import React from 'react';
 
-
+import './assets/css/main.css'
+import Navbar from './components/Navbar';
+import Inicio from './components/Inicio';
+import Acercademi from './components/Acercademi';
+import Habilidades from './components/Habilidades';
+import Proyectos from './components/Proyectos';
+import Certificaciones from './components/Certificaciones';
+import Contacto from './components/Contacto';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img  />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar></Navbar>
+      <Inicio></Inicio>
+      <Acercademi></Acercademi>
+      <Habilidades></Habilidades>
+      <Proyectos></Proyectos>
+      <Certificaciones></Certificaciones>
+      <Contacto></Contacto>
+    </>
   );
 }
 

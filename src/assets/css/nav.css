@@ -1,0 +1,23 @@
+.nav{
+    
+    display: flex;
+    width: 100%;
+    
+   
+}
+.nav__logo{
+    margin: 15px;
+    font-size: 60px;
+    font-weight: 900;
+}
+.nav__rutas{
+    padding: 0px 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.nav__ruta{
+    margin: 15px;
+    
+}

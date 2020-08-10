@@ -1,0 +1,17 @@
+.habilidades{
+    padding: 100px;
+}
+.habilidades__title{
+    color: #58baa0; 
+    font-size: 60px;
+    font-weight: 900;
+    width: 30%;
+    border-bottom: 5px solid #58baa0;
+}
+.habilidades__cards{
+    text-align: center;
+    display: flex;
+}
+.card__title{
+    color: #58baa0;
+}

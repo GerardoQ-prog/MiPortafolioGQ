@@ -1,0 +1,22 @@
+.proyectos{
+    background: #141327;
+    padding: 100px;
+}
+.proyectos__title{
+    color: #58baa0; 
+    font-size: 60px;
+    font-weight: 900;
+    width: 30%;
+    border-bottom: 5px solid #58baa0;
+}
+.img{
+    width: 50%;
+    border: 7px solid #58baa0;
+}
+.proyecto{
+    display: flex;
+    margin: 100px;
+}
+.proyecto__texto{
+    padding: 100px;
+}

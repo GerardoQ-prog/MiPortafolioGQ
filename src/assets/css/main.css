@@ -1,0 +1,19 @@
+@import './nav.css';
+@import './inicio.css';
+@import './acercademi.css';
+@import './habilidades.css';
+@import './proyectos.css';
+@import './certificaciones.css';
+
+body{
+    background: #272727;
+    font-family:  Helvetica;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+    font-weight: 100;
+}
