@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MiPortafolioGQ/static/css/main.372c1c25.chunk.css",
+    "main.js": "/MiPortafolioGQ/static/js/main.0feb6b37.chunk.js",
+    "main.js.map": "/MiPortafolioGQ/static/js/main.0feb6b37.chunk.js.map",
+    "runtime-main.js": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js",
+    "runtime-main.js.map": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js.map",
+    "static/js/2.a83c6dfb.chunk.js": "/MiPortafolioGQ/static/js/2.a83c6dfb.chunk.js",
+    "static/js/2.a83c6dfb.chunk.js.map": "/MiPortafolioGQ/static/js/2.a83c6dfb.chunk.js.map",
+    "index.html": "/MiPortafolioGQ/index.html",
+    "precache-manifest.877c1495828da40120492d1bda2e4ff3.js": "/MiPortafolioGQ/precache-manifest.877c1495828da40120492d1bda2e4ff3.js",
+    "service-worker.js": "/MiPortafolioGQ/service-worker.js",
+    "static/css/main.372c1c25.chunk.css.map": "/MiPortafolioGQ/static/css/main.372c1c25.chunk.css.map",
+    "static/js/2.a83c6dfb.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.a83c6dfb.chunk.js.LICENSE.txt",
+    "static/media/ecommerce.PNG": "/MiPortafolioGQ/static/media/ecommerce.c678df99.PNG",
+    "static/media/scrumcerti.png": "/MiPortafolioGQ/static/media/scrumcerti.1fb4ab07.png",
+    "static/media/valtienda.PNG": "/MiPortafolioGQ/static/media/valtienda.93234989.PNG",
+    "static/media/venciapp.PNG": "/MiPortafolioGQ/static/media/venciapp.27321e0f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c8aacd.js",
+    "static/js/2.a83c6dfb.chunk.js",
+    "static/css/main.372c1c25.chunk.css",
+    "static/js/main.0feb6b37.chunk.js"
+  ]
+}
