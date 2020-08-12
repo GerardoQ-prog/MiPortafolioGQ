@@ -127,6 +127,45 @@
         
     }
 }
+@media (max-width: 520px){
+    .acerca__cuadro{
+        background: #2d3259;
+        width: 300px;
+        height: 300px;
+        z-index: 1;
+        position: absolute;
+        display: flex;
+        right: 0;
+        }
+        .acerca__yo{
+            z-index: 2;
+            margin: 20px 0px;
+        }
+        .acerca__foto{
+            width: 60%;
+            
+        }
+}
+@media (max-width: 420px){
+    .acerca__cuadro{
+        background: #2d3259;
+        width: 200px;
+        height: 200px;
+        z-index: 1;
+        position: absolute;
+        display: flex;
+        right: 0;
+        }
+        .acerca__yo{
+            z-index: 2;
+            margin: 20px 0px;
+        }
+        .acerca__foto{
+            width: 60%;
+            
+        }
+}
+
 @media (max-width: 320px){
     .acerca__cuadro{
         background: #2d3259;
