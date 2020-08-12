@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MiPortafolioGQ/static/css/main.d57f66e3.chunk.css",
+    "main.css": "/MiPortafolioGQ/static/css/main.bd4b6271.chunk.css",
     "main.js": "/MiPortafolioGQ/static/js/main.05c3be5b.chunk.js",
     "main.js.map": "/MiPortafolioGQ/static/js/main.05c3be5b.chunk.js.map",
     "runtime-main.js": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js",
@@ -8,9 +8,9 @@
     "static/js/2.3704d49b.chunk.js": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js",
     "static/js/2.3704d49b.chunk.js.map": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js.map",
     "index.html": "/MiPortafolioGQ/index.html",
-    "precache-manifest.c6c195c8844629e03a68f45289d8df32.js": "/MiPortafolioGQ/precache-manifest.c6c195c8844629e03a68f45289d8df32.js",
+    "precache-manifest.a5c025aee0469030c5b27fc448afb552.js": "/MiPortafolioGQ/precache-manifest.a5c025aee0469030c5b27fc448afb552.js",
     "service-worker.js": "/MiPortafolioGQ/service-worker.js",
-    "static/css/main.d57f66e3.chunk.css.map": "/MiPortafolioGQ/static/css/main.d57f66e3.chunk.css.map",
+    "static/css/main.bd4b6271.chunk.css.map": "/MiPortafolioGQ/static/css/main.bd4b6271.chunk.css.map",
     "static/js/2.3704d49b.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js.LICENSE.txt",
     "static/media/ecommerce.PNG": "/MiPortafolioGQ/static/media/ecommerce.c678df99.PNG",
     "static/media/fotoyo.png": "/MiPortafolioGQ/static/media/fotoyo.cba4ed0a.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4c8aacd.js",
     "static/js/2.3704d49b.chunk.js",
-    "static/css/main.d57f66e3.chunk.css",
+    "static/css/main.bd4b6271.chunk.css",
     "static/js/main.05c3be5b.chunk.js"
   ]
 }
