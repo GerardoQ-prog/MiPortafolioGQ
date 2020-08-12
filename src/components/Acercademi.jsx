@@ -1,25 +1,37 @@
 import React from 'react'
+import fotoyo from '../assets/img/fotoyo.png'
 
 const Acercademi = () => {
     return ( 
-        <section className="acerca">
-            <div className="acerca__info">
-                <h1 className="acerca__title">Acerca de mí</h1>
-                <p className="acerca__parrafo">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro incidunt vel id! Aperiam optio iste quas a error itaque aut repudiandae voluptatibus quaerat? Quidem consectetur tempore, id dolorem culpa fugit.</p>
-                <div className="acerca__datos">
-                    <p className="acerca__dato">Nombre: Gerardo J. Quispe Chavez</p>
-                    <p className="acerca__dato">Edad: 20</p>
-                    <p className="acerca__dato">Movil: +51 970481426</p>
-                    <p className="acerca__dato">Nacionalidad: Perú</p>
-                    <p className="acerca__dato">Ciudad: Lima</p>
-                    <p className="acerca__dato">Estado: Disponible</p>
+        <section className="acerca container-fluid">
+            <div className="row">
+            <div className="acerca__info  col-sm-12 col-lg-6">
+                <h1 className="acerca__title row-sm">Acerca de mí</h1>
+                <p className="acerca__parrafo row-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro incidunt vel id! Aperiam optio iste quas a error itaque aut repudiandae voluptatibus quaerat? Quidem consectetur tempore, id dolorem culpa fugit.</p>
+                <div className=" acerca__datos container-fluid row">
+                    <div className=" row-6">
+                    <p className="acerca__dato col">Nombre: Gerardo J. Quispe Chavez</p>
+                    <p className="acerca__dato col">Edad: 20</p>
+                    <p className="acerca__dato col">Movil: +51 970481426</p>
+                    </div>
+                    <div className="row-6">
+                    <p className="acerca__dato col">Nacionalidad: Perú</p>
+                    <p className="acerca__dato col">Ciudad: Lima</p>
+                    <p className="acerca__dato col">Estado: Disponible</p>
+                    </div>
                 </div>
             </div>
-            <div className="acerca__foto">
-                <div className="acerca__cuadro"></div>
+            <div className=" col-sm-12 col-lg-6">
+                <div className=" acerca__foto row">
+                      <div className="acerca__cuadro col-sm-12"></div>
+                      <img src={fotoyo} className="img-fluid acerca__yo col-sm-12"></img>
+                </div>
+              
                 
             </div>
             
+            </div>
+           
         </section>
      );
 }

@@ -9,6 +9,7 @@
     margin: 15px;
     font-size: 60px;
     font-weight: 900;
+    color: white;
 }
 .nav__rutas{
     padding: 0px 10px;
@@ -20,4 +21,17 @@
 .nav__ruta{
     margin: 15px;
     
+}
+.menu{
+    background: transparent;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: white;
 }

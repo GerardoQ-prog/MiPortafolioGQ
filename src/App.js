@@ -14,10 +14,10 @@ function App() {
       <Navbar></Navbar>
       <Inicio></Inicio>
       <Acercademi></Acercademi>
-      <Habilidades></Habilidades>
+      {/* <Habilidades></Habilidades>
       <Proyectos></Proyectos>
       <Certificaciones></Certificaciones>
-      <Contacto></Contacto>
+      <Contacto></Contacto> */}
     </>
   );
 }
