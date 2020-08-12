@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a914ee7976f396f716261689c50e16d",
+    "revision": "91d57acdd677844b55873ac889c4256c",
     "url": "/MiPortafolioGQ/index.html"
   },
   {
-    "revision": "a0e2dc9a29f68ace88b9",
-    "url": "/MiPortafolioGQ/static/css/main.372c1c25.chunk.css"
+    "revision": "b8679706b31e742c782e",
+    "url": "/MiPortafolioGQ/static/css/main.08cff93e.chunk.css"
   },
   {
-    "revision": "7fe9460c5390feeeb6da",
-    "url": "/MiPortafolioGQ/static/js/2.a83c6dfb.chunk.js"
+    "revision": "d66336f1648da60ff2de",
+    "url": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/MiPortafolioGQ/static/js/2.a83c6dfb.chunk.js.LICENSE.txt"
+    "url": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0e2dc9a29f68ace88b9",
-    "url": "/MiPortafolioGQ/static/js/main.0feb6b37.chunk.js"
+    "revision": "b8679706b31e742c782e",
+    "url": "/MiPortafolioGQ/static/js/main.05c3be5b.chunk.js"
   },
   {
     "revision": "f65958be24c27b9bad0b",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c678df99a81c59dadf39f4fdc9b1ed65",
     "url": "/MiPortafolioGQ/static/media/ecommerce.c678df99.PNG"
+  },
+  {
+    "revision": "cba4ed0a36483343af699995d30173d7",
+    "url": "/MiPortafolioGQ/static/media/fotoyo.cba4ed0a.png"
   },
   {
     "revision": "1fb4ab07de342b5ca1211453c74a9650",
