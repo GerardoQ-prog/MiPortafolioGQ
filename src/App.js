@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './assets/css/main.css'
 import Navbar from './components/Navbar';
 import Inicio from './components/Inicio';
