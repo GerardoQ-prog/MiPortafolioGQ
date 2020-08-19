@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MiPortafolioGQ/static/css/main.bd4b6271.chunk.css",
-    "main.js": "/MiPortafolioGQ/static/js/main.05c3be5b.chunk.js",
-    "main.js.map": "/MiPortafolioGQ/static/js/main.05c3be5b.chunk.js.map",
+    "main.css": "/MiPortafolioGQ/static/css/main.5c6e1a06.chunk.css",
+    "main.js": "/MiPortafolioGQ/static/js/main.62fa75c6.chunk.js",
+    "main.js.map": "/MiPortafolioGQ/static/js/main.62fa75c6.chunk.js.map",
     "runtime-main.js": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js",
     "runtime-main.js.map": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js.map",
-    "static/js/2.3704d49b.chunk.js": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js",
-    "static/js/2.3704d49b.chunk.js.map": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js.map",
+    "static/js/2.98fb5f12.chunk.js": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js",
+    "static/js/2.98fb5f12.chunk.js.map": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js.map",
     "index.html": "/MiPortafolioGQ/index.html",
-    "precache-manifest.a5c025aee0469030c5b27fc448afb552.js": "/MiPortafolioGQ/precache-manifest.a5c025aee0469030c5b27fc448afb552.js",
+    "precache-manifest.c6ad5424459cacc1b90c7814e78c1d5b.js": "/MiPortafolioGQ/precache-manifest.c6ad5424459cacc1b90c7814e78c1d5b.js",
     "service-worker.js": "/MiPortafolioGQ/service-worker.js",
-    "static/css/main.bd4b6271.chunk.css.map": "/MiPortafolioGQ/static/css/main.bd4b6271.chunk.css.map",
-    "static/js/2.3704d49b.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.3704d49b.chunk.js.LICENSE.txt",
+    "static/css/main.5c6e1a06.chunk.css.map": "/MiPortafolioGQ/static/css/main.5c6e1a06.chunk.css.map",
+    "static/js/2.98fb5f12.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js.LICENSE.txt",
     "static/media/ecommerce.PNG": "/MiPortafolioGQ/static/media/ecommerce.c678df99.PNG",
     "static/media/fotoyo.png": "/MiPortafolioGQ/static/media/fotoyo.cba4ed0a.png",
     "static/media/scrumcerti.png": "/MiPortafolioGQ/static/media/scrumcerti.1fb4ab07.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a4c8aacd.js",
-    "static/js/2.3704d49b.chunk.js",
-    "static/css/main.bd4b6271.chunk.css",
-    "static/js/main.05c3be5b.chunk.js"
+    "static/js/2.98fb5f12.chunk.js",
+    "static/css/main.5c6e1a06.chunk.css",
+    "static/js/main.62fa75c6.chunk.js"
   ]
 }
