@@ -8,16 +8,18 @@ import Habilidades from './components/Habilidades';
 import Proyectos from './components/Proyectos';
 import Certificaciones from './components/Certificaciones';
 import Contacto from './components/Contacto';
+import animaciones from './assets/css/animacion';
 function App() {
   return (
     <>
       <Navbar></Navbar>
       <Inicio></Inicio>
       <Acercademi></Acercademi>
-      {/* <Habilidades></Habilidades>
+      <Habilidades></Habilidades>
       <Proyectos></Proyectos>
       <Certificaciones></Certificaciones>
-      <Contacto></Contacto> */}
+      {/* <Contacto></Contacto> */}
+      <script src={animaciones}></script>
     </>
   );
 }

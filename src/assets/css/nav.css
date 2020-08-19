@@ -5,6 +5,22 @@
     
    
 }
+/* .nav-link:after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: white;
+    transition: width 0.2s;
+    bottom: 1px;
+    transform: translateX(100%);
+}
+.nav-link:hover:after{
+    transform: translate(0);
+} */
+
+
 .nav__logo{
     margin: 15px;
     font-size: 60px;

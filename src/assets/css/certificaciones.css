@@ -1,11 +1,141 @@
-.cetificacione{
-    padding: 110px;
+.cetificaciones{
+    padding: 65px;
 }
 
 .certificaciones__title{
     color: #58baa0; 
     font-size: 60px;
     font-weight: 900;
-    width: 30%;
+    width: 100%;
     border-bottom: 5px solid #58baa0;
 }
+.certificado{
+    
+    margin: 50px 0px;
+    
+        display: flex;
+        flex-wrap: wrap;
+    
+
+}
+.flecha{
+    /* border: 1px solid red; */
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+.certificado__title{
+    display: flex;  
+}
+.title{
+    font-size: 30px;
+}
+.certificado__img{
+    width: 45%;
+    border: 5px solid #58baa0;
+}
+@media (max-width: 992px) {
+    .cetificaciones{
+        padding: 30px;
+    }
+    .certificaciones__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+
+      .flecha{
+        width: 30px;
+        height: 30px;
+        margin: 0;
+        padding: 0;
+    }
+   
+    .title{
+        font-size: 20px;
+    }
+    .certificado__img{
+        width: 45%;
+        border: 5px solid #58baa0;
+    }
+}
+
+@media (max-width: 768px) {
+    .cetificaciones{
+        padding: 30px;
+    }
+    .certificaciones__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+
+      .flecha{
+        width: 30px;
+        height: 30px;
+        margin: 0;
+        padding: 0;
+    }
+   
+    .title{
+        font-size: 20px;
+    }
+    .certificado__img{
+        width: 45%;
+        border: 5px solid #58baa0;
+    }
+}
+@media (max-width: 576px) {
+    .cetificaciones{
+        padding: 30px;
+    }
+    .certificaciones__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+
+      .flecha{
+        width: 30px;
+        height: 30px;
+        margin: 0;
+        padding: 0;
+    }
+   
+    .title{
+        font-size: 20px;
+    }
+    .certificado__img{
+        width: 100%;
+        border: 5px solid #58baa0;
+    }
+    
+}
+@media (max-width: 320px) {
+    .cetificaciones{
+        padding: 30px;
+    }
+    .certificaciones__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+
+      .flecha{
+        width: 30px;
+        height: 30px;
+        margin: 0;
+        padding: 0;
+    }
+   
+    .title{
+        font-size: 20px;
+    }
+    .certificado__img{
+        width: 100%;
+        border: 5px solid #58baa0;
+    }
+    
+}
+

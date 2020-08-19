@@ -7,24 +7,31 @@ const Proyectos = () => {
     return ( 
         <div className="proyectos">
             <h1 className="proyectos__title">Proyectos</h1>
-            <div className="proyecto">
-                <img src={ecommerce} className="img"></img> 
-                <div className="proyecto__texto">
+            <div className="proyecto row">
+                <div className="col-lg-6  col-md-6 col-sm-12">
+                   <img src={ecommerce} className="proyecto__img "></img>  
+                </div>
+                <div className="proyecto__texto col-lg-6 col-md-6 col-sm-12">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora reiciendis corrupti quod quae iste. Perspiciatis, saepe eos aliquam, et vel dolor quam repellendus ut expedita ipsum voluptate voluptatem inventore placeat.</p>
                 </div>
             </div>
-            <div className="proyecto">
-                <img src={venciapp} className="img"></img> 
-                <div className="proyecto__texto">
+            <div className="proyecto row">
+                <div className="col-lg-6  col-md-6 col-sm-12">
+                   <img src={ecommerce} className="proyecto__img "></img>  
+                </div>
+                <div className="proyecto__texto col-lg-6 col-md-6 col-sm-12">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora reiciendis corrupti quod quae iste. Perspiciatis, saepe eos aliquam, et vel dolor quam repellendus ut expedita ipsum voluptate voluptatem inventore placeat.</p>
                 </div>
             </div>
-            <div className="proyecto">
-                <img src={venciapp} className="img"></img> 
-                <div className="proyecto__texto">
+            <div className="proyecto row">
+                <div className="col-lg-6  col-md-6 col-sm-12">
+                   <img src={ecommerce} className="proyecto__img "></img>  
+                </div>
+                <div className="proyecto__texto col-lg-6 col-md-6 col-sm-12">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora reiciendis corrupti quod quae iste. Perspiciatis, saepe eos aliquam, et vel dolor quam repellendus ut expedita ipsum voluptate voluptatem inventore placeat.</p>
                 </div>
             </div>
+            
             
         </div>
      );

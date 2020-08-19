@@ -1,6 +1,6 @@
 .proyectos{
     background: #141327;
-    padding: 100px;
+    padding: 70px;
 }
 .proyectos__title{
     color: #58baa0; 
@@ -9,14 +9,102 @@
     width: 30%;
     border-bottom: 5px solid #58baa0;
 }
-.img{
-    width: 50%;
-    border: 7px solid #58baa0;
-}
+
+
 .proyecto{
-    display: flex;
-    margin: 100px;
+    text-align: center;
+    margin: 50px 50px;
 }
-.proyecto__texto{
-    padding: 100px;
+.proyectos__title{
+    width: 100%;
+    font-size: 60px;
+    font-weight: 900;
+  }
+  .proyecto__img{
+      border: 5px solid #58baa0;
+      margin: 10px 10px;
+      width: 100%;
+  }
+
+@media (max-width: 992px) {
+    .proyectos{
+        padding: 65px;
+    }
+    .proyecto{
+        text-align: center;
+        margin: 50px 0px;
+    }
+    .proyectos__title{
+        width: 100%;
+        font-size: 60px;
+        font-weight: 900;
+      }
+      .proyecto__img{
+          border: 5px solid #58baa0;
+          margin: 10px 10px;
+          width: 100%;
+      }
+}
+
+@media (max-width: 768px) {
+    .proyectos{
+        padding: 30px;
+    }
+    .proyecto{
+        text-align: center;
+        margin: 50px 0px;
+    }
+    .proyectos__title{
+        width: 100%;
+        font-size: 60px;
+        font-weight: 900;
+      }
+      .proyecto__img{
+          border: 5px solid #58baa0;
+          margin: 10px 10px;
+          width: 100%;
+      }
+    
+}
+
+@media (max-width: 576px) {
+    .proyectos{
+        padding: 30px;
+    }
+    .proyecto{
+        text-align: center;
+        margin: 50px 0px;
+    }
+    .proyectos__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+      .proyecto__img{
+          border: 5px solid #58baa0;
+          margin: 10px 10px;
+          width: 100%;
+      }
+    
+}
+@media (max-width: 320px) {
+    .proyectos{
+        padding: 30px;
+    }
+    .proyecto{
+        text-align: center;
+        margin: 50px 0px;
+    }
+    .proyectos__title{
+        width: 100%;
+        font-size: 35px;
+        font-weight: 900;
+      }
+      .proyecto__img{
+          border: 5px solid #58baa0;
+          
+          width: 200px;
+         
+      }
+    
 }

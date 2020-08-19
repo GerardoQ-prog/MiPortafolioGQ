@@ -2,14 +2,25 @@
     padding: 0px 50px;
     display: flex;
     align-items: center;
+
    
 }
+/* .main:hover{
+    color: blue;
+} */
 .inicio{
     
+    animation: pasada 1s;
 }
 .inicio__letter{
     font-size: 120px;
     font-weight: 900;
+    
+}
+@keyframes pasada{
+    0%{
+        transform: translate(-100%);
+    }
 }
 
 .inicio__letter::first-letter{
