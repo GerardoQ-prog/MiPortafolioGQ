@@ -7,7 +7,9 @@ const Acercademi = () => {
             <div className="row">
             <div className="acerca__info  col-sm-12 col-lg-6">
                 <h1 className="acerca__title row-sm">Acerca de mí</h1>
-                <p className="acerca__parrafo row-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro incidunt vel id! Aperiam optio iste quas a error itaque aut repudiandae voluptatibus quaerat? Quidem consectetur tempore, id dolorem culpa fugit.</p>
+                <p className="acerca__parrafo row-sm">Mi nombre es Gerardo, tengo 20 años y estudio Ingenieria de Sistemas en la Universidad Tecnologica del Perú, cursando el 6to ciclo de la carrera.
+
+Eficiente para el trabajo en equipo, habituado para trabajar con objetivos y adaptable a los cambios organizacionales y con gran sentido de responsabilidad.</p>
                 <div className=" acerca__datos container-fluid row">
                     <div className=" row-6">
                     <p className="acerca__dato col">Nombre: Gerardo J. Quispe Chavez</p>
