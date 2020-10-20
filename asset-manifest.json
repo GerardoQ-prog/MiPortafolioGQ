@@ -1,27 +1,32 @@
 {
   "files": {
     "main.css": "/MiPortafolioGQ/static/css/main.5c6e1a06.chunk.css",
-    "main.js": "/MiPortafolioGQ/static/js/main.62fa75c6.chunk.js",
-    "main.js.map": "/MiPortafolioGQ/static/js/main.62fa75c6.chunk.js.map",
-    "runtime-main.js": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js",
-    "runtime-main.js.map": "/MiPortafolioGQ/static/js/runtime-main.a4c8aacd.js.map",
-    "static/js/2.98fb5f12.chunk.js": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js",
-    "static/js/2.98fb5f12.chunk.js.map": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js.map",
+    "main.js": "/MiPortafolioGQ/static/js/main.0699367a.chunk.js",
+    "main.js.map": "/MiPortafolioGQ/static/js/main.0699367a.chunk.js.map",
+    "runtime-main.js": "/MiPortafolioGQ/static/js/runtime-main.3d32b039.js",
+    "runtime-main.js.map": "/MiPortafolioGQ/static/js/runtime-main.3d32b039.js.map",
+    "static/js/2.d3ae31f5.chunk.js": "/MiPortafolioGQ/static/js/2.d3ae31f5.chunk.js",
+    "static/js/2.d3ae31f5.chunk.js.map": "/MiPortafolioGQ/static/js/2.d3ae31f5.chunk.js.map",
     "index.html": "/MiPortafolioGQ/index.html",
-    "precache-manifest.c6ad5424459cacc1b90c7814e78c1d5b.js": "/MiPortafolioGQ/precache-manifest.c6ad5424459cacc1b90c7814e78c1d5b.js",
+    "precache-manifest.120933444b50a1d4fb828b7a908e5780.js": "/MiPortafolioGQ/precache-manifest.120933444b50a1d4fb828b7a908e5780.js",
     "service-worker.js": "/MiPortafolioGQ/service-worker.js",
     "static/css/main.5c6e1a06.chunk.css.map": "/MiPortafolioGQ/static/css/main.5c6e1a06.chunk.css.map",
-    "static/js/2.98fb5f12.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.98fb5f12.chunk.js.LICENSE.txt",
+    "static/js/2.d3ae31f5.chunk.js.LICENSE.txt": "/MiPortafolioGQ/static/js/2.d3ae31f5.chunk.js.LICENSE.txt",
     "static/media/ecommerce.PNG": "/MiPortafolioGQ/static/media/ecommerce.c678df99.PNG",
     "static/media/fotoyo.png": "/MiPortafolioGQ/static/media/fotoyo.cba4ed0a.png",
+    "static/media/image10.png": "/MiPortafolioGQ/static/media/image10.0480ddb8.png",
+    "static/media/image11.png": "/MiPortafolioGQ/static/media/image11.83fe16f6.png",
+    "static/media/image8.jpg": "/MiPortafolioGQ/static/media/image8.84506d7e.jpg",
+    "static/media/image9.png": "/MiPortafolioGQ/static/media/image9.e1b6facc.png",
+    "static/media/react logo.png": "/MiPortafolioGQ/static/media/react logo.a7212ed4.png",
     "static/media/scrumcerti.png": "/MiPortafolioGQ/static/media/scrumcerti.1fb4ab07.png",
     "static/media/valtienda.PNG": "/MiPortafolioGQ/static/media/valtienda.93234989.PNG",
     "static/media/venciapp.PNG": "/MiPortafolioGQ/static/media/venciapp.27321e0f.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4c8aacd.js",
-    "static/js/2.98fb5f12.chunk.js",
+    "static/js/runtime-main.3d32b039.js",
+    "static/js/2.d3ae31f5.chunk.js",
     "static/css/main.5c6e1a06.chunk.css",
-    "static/js/main.62fa75c6.chunk.js"
+    "static/js/main.0699367a.chunk.js"
   ]
 }
